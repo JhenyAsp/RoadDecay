@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-np.set_printoptions(suppress=True) # prevent numpy exponential notation on print (remove eng notation in matrices)
+np.set_printoptions(suppress=True)
 #pd.set_option('display.max_rows', 40)
 
 
